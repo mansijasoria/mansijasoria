@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mansijasoria" target="blank"><img src="https://img.shields.io/twitter/follow/mansijasoria?logo=twitter&style=for-the-badge" alt="mansijasoria" /></a> </p>
 
-- 🔭 I’m currently working on **App Development**
-
-- 🌱 I’m currently learning **ML,Kotlin**
+- 🔭 I’m currently working on **Machine learning**
 
 - 📫 How to reach me **mansijasoria13@gmail.com**
 
