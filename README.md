@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mansijasoria" target="blank"><img src="https://img.shields.io/twitter/follow/mansijasoria?logo=twitter&style=for-the-badge" alt="mansijasoria" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 **Data Science** Enthusiast
 
 - 📫 How to reach me **mansijasoria13@gmail.com**
 
